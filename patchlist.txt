@@ -1,0 +1,8 @@
+Skill/110.img
+Skill/112.img
+Skill/120.img
+Skill/231.img
+Skill/312.img
+Skill/322.img
+Skill/421.img
+Skill/1511.img
